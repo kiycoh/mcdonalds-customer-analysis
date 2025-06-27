@@ -115,7 +115,7 @@ You can then run the cells sequentially to see the full analysis.
 - **`McDonald's Data Analysis.ipynb`**: The complete Jupyter Notebook containing the Python code for data cleaning, analysis, PCA, clustering, and visualization.
     
 - **`McDonalds_analysis_report.md`**: A detailed report summarizing the methodology and findings of the analysis.
-- 
+
 - **`McDonalds_analysis_export.pdf`**: Exported Jupyter notebook.
     
 - **MIT license**.
