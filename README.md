@@ -3,13 +3,13 @@
 This project performs an in-depth analysis of a customer survey dataset for McDonald's. The primary goal is to understand customer perceptions, identify distinct market segments through clustering, and create profiles for each segment to inform targeted marketing strategies.
 
 ## 📋 Table of contents
-- [Goals](#🏆-Project-goals)
-- [Dataset](#💾-Dataset)
-- [Methodology](#🔬-Methodology)
-- [Key findings](#📊-Key-findings)
-- [Visualizations](#📈-Visualizations)
-- [How to run](#⚙️-How-to-run)
-- [Files](#📂-Files)
+- [Goals](#-Project-goals)
+- [Dataset](#-Dataset)
+- [Methodology](#-Methodology)
+- [Key findings](#-Key-findings)
+- [Visualizations](#-Visualizations)
+- [How to run](#⚙-How-to-run)
+- [Files](#-Files)
 
 - License
 
