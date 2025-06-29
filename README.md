@@ -54,8 +54,6 @@ The analysis successfully identified four distinct customer segments:
 - **Practical:** This segment is primarily driven by convenience and speed. They may not love the food but value McDonald's for its practicality. They are often younger.
 
 ![Pasted image 20240617143900](https://github.com/user-attachments/assets/ed5de3d0-1f40-4c05-8ff9-3fe76495ee43) 
-    
-These insights suggest that a "one-size-fits-all" marketing message is ineffective. Instead, McDonald's could develop targeted campaigns: emphasizing quality and freshness for "The Critics," highlighting convenience for "The Busy & Practical," and reinforcing brand loyalty with "The Lovers."
 
 ### 📈 Visualizations
 
