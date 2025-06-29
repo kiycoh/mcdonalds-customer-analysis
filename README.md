@@ -2,6 +2,17 @@
 
 This project performs an in-depth analysis of a customer survey dataset for McDonald's. The primary goal is to understand customer perceptions, identify distinct market segments through clustering, and create profiles for each segment to inform targeted marketing strategies.
 
+## 📋 Table of contents
+- [Goals](#🏆-Project-goals)
+- [Dataset](#💾-Dataset)
+- [Methodology](#🔬-Methodology)
+- [Key findings](#📊-Key-findings)
+- [Visualizations](#📈-Visualizations)
+- [How to run](#⚙️-How-to-run)
+- [Files](#📂-Files)
+
+- License
+
 ## 🏆 Project goals
 
 1. Identify the key factors that drive customer perception of McDonald's.
@@ -106,7 +117,7 @@ jupyter notebook "McDonald's Data Analysis.ipynb"
 
 You can then run the cells sequentially to see the full analysis.
 
-## 📂 Files in this Repository
+## 📂 Files
 
 - **`mcdonalds.csv`**: The raw survey dataset used for the analysis.
     
