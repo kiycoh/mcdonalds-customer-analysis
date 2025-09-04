@@ -10,8 +10,7 @@ This project performs an in-depth analysis of a customer survey dataset for McDo
 - [Visualizations](#-Visualizations)
 - [How to run](#⚙-How-to-run)
 - [Files](#-Files)
-
-- License
+- [License](#-License)
 
 ## 🏆 Project goals
 
