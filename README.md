@@ -100,36 +100,6 @@ Ensure you have Python 3 installed. You will need the following py libraries:
 - [x] jupyter
     
 
-### 2. Clone the Repository
-
-```
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-```
-
-### 3. Run the Jupyter Notebook
-
-Launch Jupyter Notebook and open the analysis file:
-
-```
-jupyter notebook "McDonald's Data Analysis.ipynb"
-```
-
-You can then run the cells sequentially to see the full analysis.
-
-## 📂 Files
-
-- **`mcdonalds.csv`**: The raw survey dataset used for the analysis.
-    
-- **`McDonald's Data Analysis.ipynb`**: The complete Jupyter Notebook containing the Python code for data cleaning, analysis, PCA, clustering, and visualization.
-    
-- **`McDonalds_analysis_report.md`**: A detailed report summarizing the methodology and findings of the analysis.
-
-- **`McDonalds_analysis_export.pdf`**: Exported Jupyter notebook.
-    
-- **MIT license**.
-    
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE.txt](https://github.com/kiycoh/mcdonalds-customer-analysis/blob/main/LICENSE) file for details.
